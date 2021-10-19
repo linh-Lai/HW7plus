@@ -85,6 +85,7 @@ top:-17px;
 weather-temperature .active:hover{
     text-decoration: none;
 }
+
 .forecast {
   position: relative;
   top: 50px;
@@ -94,6 +95,7 @@ weather-temperature .active:hover{
   font-size: 18px;
   line-height: 20px;
 }
+
 h3{
     font-size: 50px;
     margin-bottom: 5px;
